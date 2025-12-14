@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+.conda/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights (OPTIONAL but recommended)
+
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db

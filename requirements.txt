@@ -1,0 +1,22 @@
+# Core
+python>=3.9
+
+# Deep Learning
+torch>=2.5.0
+torchvision>=0.20.0
+
+# Image Processing
+opencv-python
+Pillow
+
+# Data & Utilities
+numpy
+scikit-learn
+tqdm
+
+# Visualization
+matplotlib
+
+# (Optional – for future web app)
+fastapi
+uvicorn
